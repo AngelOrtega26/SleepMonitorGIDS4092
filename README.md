@@ -60,3 +60,52 @@ Crear un dispositivo portable (wearable) el cual permita al usuario conocer mas 
 # Video de prueba
 
 ![video](https://github.com/AngelOrtega26/SleepMonitorGIDS4092/blob/main/WearablePrototype.mp4)
+
+# Proceso de desarrollo
+
+## Código de arduino
+![image](https://github.com/user-attachments/assets/7d62997a-f303-49ab-8f4a-ee211aaac80c)
+
+## Nodos de node-red
+![image](https://github.com/user-attachments/assets/7f402327-b4d7-4c51-b751-b745d39f6f9f)
+![image](https://github.com/user-attachments/assets/e60bb00a-c5eb-4316-92a1-69ee6cb70dcc)
+![image](https://github.com/user-attachments/assets/27a19e5e-b6f8-4580-8d57-4e4ba07c5541)
+![image](https://github.com/user-attachments/assets/77674c4a-6de5-4d3b-93fa-f4976c62709b)
+![image](https://github.com/user-attachments/assets/efc778bb-ecc1-4f45-a5e2-8dbf73e68c62)
+
+## Dashboard de node-red
+![image](https://github.com/user-attachments/assets/9d58c654-f8e9-41a8-ac0f-329631d64569)
+![image](https://github.com/user-attachments/assets/f4529237-bf90-47fc-9bd2-56ed7ac2e03c)
+
+## Funciones agregadas en node-red
+![image](https://github.com/user-attachments/assets/08a65903-8d57-4993-99ad-0f6f0854c006)
+
+## Código de Flutter
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/2636927c-453e-45a6-86e4-362fd0c25797">
+
+## Dashboard en Flutter
+![image](https://github.com/user-attachments/assets/f5af95ec-6d46-4835-a5fd-13b68a720032)
+![image](https://github.com/user-attachments/assets/61829158-93e7-428b-ab3c-8e92baaf47db)
+![image](https://github.com/user-attachments/assets/05341c79-9e99-4caa-9a2b-2307e3bafb2f)
+![image](https://github.com/user-attachments/assets/4a4aa4ec-5aef-423c-888e-70f1486ad1d1)
+![image](https://github.com/user-attachments/assets/c13ee3fd-9c1d-47cc-8ce9-e425dc33524f)
+![image](https://github.com/user-attachments/assets/6e1565de-5607-48ae-9dd6-fcf7d033c4ad)
+
+## Control de actuadores Flutter
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/0288f828-33bc-44ce-ab41-a4ff590274cc">
+![image](https://github.com/user-attachments/assets/c137eee2-232a-4683-88f2-21cc30eb11b0)
+
+## Base de datos
+![image](https://github.com/user-attachments/assets/e2307b25-6e3d-4083-8d82-0f4157bea417)
+![image](https://github.com/user-attachments/assets/a8bf0340-9145-417a-9d38-d7c0da10e502)
+
+## Esquema
+<img width="650" alt="image" src="https://github.com/user-attachments/assets/c4a3b640-bc15-4967-aeca-f7d70d1b184e">
+
+# Videos
+## Video de demostración
+
+## Video de patrocinadora
+
+# Carta
+![image](https://github.com/user-attachments/assets/c797076a-1b65-4b9b-9bef-a41e5eba6fb1)
