@@ -93,7 +93,7 @@ Crear un dispositivo portable (wearable) el cual permita al usuario conocer mas 
 
 ## Control de actuadores Flutter
 <img width="1440" alt="image" src="https://github.com/user-attachments/assets/0288f828-33bc-44ce-ab41-a4ff590274cc">
-![image](https://github.com/user-attachments/assets/c137eee2-232a-4683-88f2-21cc30eb11b0)
+![image](https://github.com/user-attachments/assets/4c1b92c2-1c05-4812-947f-609e2abdf367)
 
 ## Base de datos
 ![image](https://github.com/user-attachments/assets/e2307b25-6e3d-4083-8d82-0f4157bea417)
@@ -106,6 +106,7 @@ Crear un dispositivo portable (wearable) el cual permita al usuario conocer mas 
 ## Video de demostración
 
 ## Video de patrocinadora
+
 
 # Carta
 ![image](https://github.com/user-attachments/assets/c797076a-1b65-4b9b-9bef-a41e5eba6fb1)
