@@ -96,7 +96,10 @@ Crear un dispositivo portable (wearable) el cual permita al usuario conocer mas 
 
 ![image](https://github.com/user-attachments/assets/4c1b92c2-1c05-4812-947f-609e2abdf367)
 
-## Base de datos
+# Base de datos
+## Servidor Mongo Atlas
+![image](https://github.com/user-attachments/assets/1be79875-e9ac-46ba-a1e8-19acf9cd58d8)
+
 ![image](https://github.com/user-attachments/assets/e2307b25-6e3d-4083-8d82-0f4157bea417)
 ![image](https://github.com/user-attachments/assets/a8bf0340-9145-417a-9d38-d7c0da10e502)
 
